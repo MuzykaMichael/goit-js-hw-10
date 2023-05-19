@@ -63,7 +63,7 @@
 74D:\FrontEnd\goit-js-hw-10\node_modules\type-fest\source\readonly-deep.d.ts133288724729147947 0
 68D:\FrontEnd\goit-js-hw-10\node_modules\msgpackr-extract\package.json133288724701320757 0
 66D:\FrontEnd\goit-js-hw-10\node_modules\cosmiconfig\dist\index.d.ts133288724736187467 0
-30D:\FrontEnd\goit-js-hw-10\dist133289777087425239 1
+30D:\FrontEnd\goit-js-hw-10\dist133289784145295897 1
 70D:\FrontEnd\goit-js-hw-10\node_modules\caniuse-lite\data\regions\AL.js133288724716642646 0
 55D:\FrontEnd\goit-js-hw-10\node_modules\lmdb\src\txn.cpp133288724753629419 0
 78D:\FrontEnd\goit-js-hw-10\node_modules\notiflix\build\notiflix-report-aio.d.ts133289685459793641 0
@@ -81,7 +81,7 @@
 70D:\FrontEnd\goit-js-hw-10\node_modules\source-map-js\lib\quick-sort.js133288724709626664 0
 66D:\FrontEnd\goit-js-hw-10\node_modules\source-map\lib\array-set.js133288724701570614 0
 68D:\FrontEnd\goit-js-hw-10\node_modules\terser\lib\compress\inline.js133288724737146914 0
-52D:\FrontEnd\goit-js-hw-10\dist\index.975ef6c8.js.map133289777087415255 0
+52D:\FrontEnd\goit-js-hw-10\dist\index.975ef6c8.js.map133289784145295897 0
 55D:\FrontEnd\goit-js-hw-10\node_modules\fastq\index.d.ts133288724715173492 0
 106D:\FrontEnd\goit-js-hw-10\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133288724789913318 0
 38D:\FrontEnd\goit-js-hw-10\package.json133289778256906688 0
@@ -114,7 +114,7 @@
 59D:\FrontEnd\goit-js-hw-10\node_modules\posthtml-expressions133288724714653785 1
 81D:\FrontEnd\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-overflow.js133288724769831588 0
 82D:\FrontEnd\goit-js-hw-10\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133288724725579990 0
-38D:\FrontEnd\goit-js-hw-10\src\index.js133289777971739931 0
+38D:\FrontEnd\goit-js-hw-10\src\index.js133289784144386406 0
 57D:\FrontEnd\goit-js-hw-10\node_modules\reusify\benchmarks133288724712085266 1
 43D:\FrontEnd\goit-js-hw-10\node_modules\@swc133288724674862764 1
 71D:\FrontEnd\goit-js-hw-10\node_modules\react-error-overlay\package.json133288724710905934 0
@@ -1219,7 +1219,7 @@
 65D:\FrontEnd\goit-js-hw-10\node_modules\nth-check\lib\esm\parse.js133288724702260223 0
 77D:\FrontEnd\goit-js-hw-10\node_modules\@parcel\watcher\prebuilds\darwin-arm64133288724735407918 1
 78D:\FrontEnd\goit-js-hw-10\node_modules\@parcel\reporter-cli\src\CLIReporter.js133288724711885375 0
-41D:\FrontEnd\goit-js-hw-10\dist\index.html133289777087415255 0
+41D:\FrontEnd\goit-js-hw-10\dist\index.html133289781896895124 0
 70D:\FrontEnd\goit-js-hw-10\node_modules\caniuse-lite\data\regions\PL.js133288724779746691 0
 110D:\FrontEnd\goit-js-hw-10\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133288724729337839 0
 71D:\FrontEnd\goit-js-hw-10\node_modules\picocolors\picocolors.browser.js133288724690646550 0
@@ -4722,8 +4722,8 @@
 50D:\FrontEnd\goit-js-hw-10\node_modules\.bin\terser133288724790323091 0
 54D:\FrontEnd\goit-js-hw-10\node_modules\.bin\terser.cmd133288724790323091 0
 54D:\FrontEnd\goit-js-hw-10\node_modules\.bin\terser.ps1133288724790323091 0
-49D:\FrontEnd\goit-js-hw-10\dist\index.77a9bc14.css133289777087365275 0
-53D:\FrontEnd\goit-js-hw-10\dist\index.77a9bc14.css.map133289777087365275 0
-48D:\FrontEnd\goit-js-hw-10\dist\index.975ef6c8.js133289777087375271 0
+49D:\FrontEnd\goit-js-hw-10\dist\index.77a9bc14.css133289781896895124 0
+53D:\FrontEnd\goit-js-hw-10\dist\index.77a9bc14.css.map133289781897015059 0
+48D:\FrontEnd\goit-js-hw-10\dist\index.975ef6c8.js133289784145275905 0
 49D:\FrontEnd\goit-js-hw-10\assets\how-it-works.png133106784810000000 0
 54D:\FrontEnd\goit-js-hw-10\.github\workflows\deploy.yml133106784810000000 0
